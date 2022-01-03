@@ -1,0 +1,21 @@
+@import "colors.css";
+
+.cars {
+  color: var(--secondary-color);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 600px));
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  justify-content: space-evenly;
+}
+
+.carsTxt {
+  justify-self: center;
+  padding: 60px;
+  margin: 60px;
+}
+
+.carsTxt a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
