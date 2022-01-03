@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mawerauto/static/css/main.ed0d347d.css",
+    "main.js": "/mawerauto/static/js/main.37c3872f.js",
+    "static/js/787.60fda860.chunk.js": "/mawerauto/static/js/787.60fda860.chunk.js",
+    "static/media/mawer_logo.jpg": "/mawerauto/static/media/mawer_logo.1861e10414cd47802d48.jpg",
+    "index.html": "/mawerauto/index.html",
+    "main.ed0d347d.css.map": "/mawerauto/static/css/main.ed0d347d.css.map",
+    "main.37c3872f.js.map": "/mawerauto/static/js/main.37c3872f.js.map",
+    "787.60fda860.chunk.js.map": "/mawerauto/static/js/787.60fda860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0d347d.css",
+    "static/js/main.37c3872f.js"
+  ]
+}
